@@ -1,5 +1,12 @@
 # Changelog
 
+## [23.38.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.38.0...v23.38.1) (2025-05-05)
+
+
+### Bug Fixes
+
+* Fix some duplicate model identifiers ([#9285](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9285)) ([c822332](https://github.com/Koenkk/zigbee-herdsman-converters/commit/c8223323e861f41c0e861740eeed5c3ac2fc5d3c))
+
 ## [23.38.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.37.0...v23.38.0) (2025-05-05)
 
 
